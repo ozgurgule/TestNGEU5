@@ -17,6 +17,7 @@ public class css_locotor {
         s.sendKeys("Samsung s20 ultra");
         Thread.sleep(3000);
         driver.findElement(By.cssSelector("#nav-search-submit-button")).click();
+        driver.get("http://www.google.com");
 
 
 
