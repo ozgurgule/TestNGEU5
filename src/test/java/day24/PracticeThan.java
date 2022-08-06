@@ -8,7 +8,7 @@ public class PracticeThan {
 
       while (abc.length()<100) {
           System.out.println(abc);
-          abc=abc+" Geceler geceler hain geceler";
+          abc=abc+" Geceler geceler hain geceler...";
 
         }
 
